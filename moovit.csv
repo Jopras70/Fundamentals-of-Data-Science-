@@ -1,0 +1,151 @@
+Country,City,Average time travel by public transport (Min),Percentage of people that ride public transport more than 2 hour everyday (%),Average waiting time at station (Min),Percentage of people that wait longer than 20 mins (%),Average travel distance for single trip (KM),Percentage of people that travel over 12 km in single direction (%),Percentage of people who transfer transit lines at least once in a single trip (%),Percentage of people who transfer transit lines at least twice in a single trip (%),Average distance people walk every day in one direction (KM),Percentage of people who walk for over 1 km each day to reach a specific destination (%)
+Argentina,Buenos Aires,56,31,16,25,9.9,24,38,39,0.65,18
+Argentina,Cordoba,35,6,25,51,5.1,5,58,30,0.68,18
+Argentina,Posadas,57,10,16,26,4.3,2,37,12,0.54,10
+Argentina,Rosario,36,7,19,36,6.9,15,60,24,0.64,16
+Australia,Adelaide,39,13,10,7,6.8,16,57,26,0.71,21
+Australia,Brisbane,44,20,12,14,9.8,21,56,27,0.78,25
+Australia,Melbourne,47,24,11,10,10.4,26,38,42,0.81,28
+Australia,Sydney,46,20,10,10,8.5,17,37,40,0.66,19
+Brazil,Bauru,52,9,20,37,3.4,0,36,9,0.72,20
+Brazil,Belem Region,88,27,23,50,6.8,14,41,12,0.58,11
+Brazil,Belo Horizonte Region,61,35,25,51,7.7,19,38,43,0.98,32
+Brazil,Brasilia Region,55,29,23,45,11.6,38,39,40,1.11,37
+Brazil,Campina Grande,68,20,24,51,3.6,1,53,8,0.57,13
+Brazil,Campinas Region,49,22,26,53,7.6,21,39,47,0.79,27
+Brazil,Campo Grande,84,24,22,46,5.8,4,77,28,0.73,23
+Brazil,Caxias do Sul and Serra Gaucha,60,12,18,32,4.4,2,58,16,0.76,23
+Brazil,Cuiaba,77,18,27,61,5.3,3,62,12,0.79,24
+Brazil,Curitiba Region,59,38,16,25,8.2,21,22,41,1.33,50
+Brazil,Florianopolis Region,70,18,17,33,7.2,15,51,14,0.61,15
+Brazil,Fortaleza Region,55,31,23,47,6.0,10,31,49,0.52,10
+Brazil,Foz do Iguacu,69,15,23,44,5.7,2,43,8,0.63,18
+Brazil,Goiania Region,98,35,28,60,7.0,12,74,29,0.75,25
+Brazil,Joao Pessoa,80,23,29,64,5.4,3,48,13,0.56,11
+Brazil,Joinville,76,20,17,32,5.4,4,80,37,0.66,19
+Brazil,Jundiai,79,24,20,46,6.1,10,58,26,0.71,21
+Brazil,Londrina,66,18,16,29,4.1,0,66,20,0.65,18
+Brazil,Maceio,82,23,32,68,6.7,12,35,9,0.55,9
+Brazil,Manaus,92,34,34,73,6.7,9,63,17,0.68,20
+Brazil,Maringa Region,64,18,23,53,4.5,2,55,9,0.75,22
+Brazil,Natal Region,83,25,30,67,7.1,11,50,13,0.66,18
+Brazil,Ponta Grossa,70,18,21,36,4.2,0,63,25,0.52,12
+Brazil,Porto Alegre Region,47,20,22,42,7.9,19,51,35,1.02,39
+Brazil,Recife Region,64,41,31,65,8.1,19,38,40,0.66,19
+Brazil,Ribeirao Preto,61,10,20,43,4.4,0,50,12,0.69,19
+Brazil,Rio de Janeiro Region,67,45,20,36,11.6,34,33,48,1.01,39
+Brazil,Salvador,56,35,28,58,7.7,19,37,41,0.55,11
+Brazil,"Santos, Sao Vicente, Guaruja, Cubatao and Bertioga",63,20,22,48,5.8,6,40,12,0.52,9
+Brazil,Sao Jose dos Campos,66,15,19,37,5.7,5,47,14,0.64,17
+Brazil,Sao Luis,92,31,26,57,5.4,4,71,21,0.61,16
+Brazil,Sao Paulo Region,63,42,18,34,7.1,16,33,43,1.17,40
+Brazil,Teresina,79,19,33,73,5.4,3,46,14,0.59,13
+Brazil,Uberlandia,76,18,19,35,4.8,1,74,22,0.56,13
+Canada,Montreal,47,18,12,13,7.3,17,27,42,0.78,26
+Canada,Ottawa,84,31,13,20,7.8,18,62,17,0.79,26
+Canada,Southwest British Columbia,43,20,10,10,7.5,18,29,46,0.73,23
+Canada,Toronto,52,28,12,15,8.8,21,28,42,0.73,23
+Chile,Santiago,51,26,13,16,6.9,16,32,47,0.67,19
+Chile,Valparaiso y Vina del Mar,68,15,13,15,7.0,12,39,8,0.52,9
+China,Hong Kong,45,21,10,6,8.1,22,39,43,0.85,28
+Colombia,Barranquilla,77,17,15,20,5.9,5,64,25,1.23,47
+Colombia,Bogota,64,41,19,34,7.9,19,36,44,1.09,43
+Colombia,Bucaramanga,57,10,14,19,5.6,10,65,6,0.74,22
+Colombia,Cali,52,25,22,45,4.5,2,27,49,0.64,18
+Colombia,Medellin,41,14,9,8,4.8,4,41,40,0.65,16
+Costa Rica,San José,47,22,16,25,8.1,15,41,47,0.84,29
+Ecuador,Cuenca,51,7,11,9,3.8,0,51,9,0.67,16
+Ecuador,Guayaquil,45,15,10,7,5.9,9,39,48,0.58,12
+France,Bordeaux,40,18,11,8,4.6,5,31,49,0.69,20
+France,French riviera - Nice,34,10,11,9,5.2,11,39,48,0.75,25
+France,Lille,37,12,9,8,4.4,6,35,46,0.71,23
+France,Lyon,36,10,10,7,4.4,5,26,46,0.66,18
+France,Marseille,37,14,11,12,7.4,18,37,41,0.81,28
+France,Montpellier,34,7,10,7,3.1,0,37,42,0.78,26
+France,Nantes,34,9,8,5,4.3,3,25,51,0.63,17
+France,Paris,50,26,11,9,9.9,27,24,42,0.82,30
+France,Strasbourg,52,7,9,11,3.9,0,60,19,0.82,29
+France,Toulouse,32,9,9,8,5.1,8,37,44,0.74,24
+Germany,Berlin - Brandenburg,50,25,10,8,8.1,19,20,41,0.63,17
+Germany,Hamburg,58,16,11,11,8.9,21,72,30,0.70,22
+Germany,Munich,40,14,9,6,7.1,17,25,47,0.73,24
+Germany,Rhein-Main Gebiet,44,20,11,11,7.6,17,30,42,0.65,19
+Germany,Rhine-Ruhr Region,42,16,10,10,8.8,19,33,41,0.86,31
+Greece,Athens,47,22,16,25,6.1,12,34,46,0.67,19
+Greece,Thessaloniki,44,18,19,33,5,10,49,38,0.62,15
+Indonesia,Jakarta,71,53,13,19,12.1,34,24,44,1.13,42
+Ireland,Ireland,65,22,12,18,7.8,14,34,10,0.86,31
+Israel,Israel,47,22,13,13,18,32,42,40,0.71,21
+Italy,Bari,57,11,18,40,4.2,2,31,13,0.76,22
+Italy,Bologne,34,10,9,4,6.4,13,50,30,0.72,21
+Italy,Florence,35,10,9,7,4.3,5,39,36,0.72,21
+Italy,Genoa,34,11,10,7,4.4,6,38,36,0.60,16
+Italy,Messina,56,13,23,46,4.7,3,46,17,0.80,24
+Italy,Milan and Lombardy,43,19,9,6,7.1,15,31,43,0.74,23
+Italy,Naples,38,15,20,39,5.3,8,51,35,0.68,21
+Italy,Padova,46,5,13,30,4.7,4,46,14,0.98,34
+Italy,Palermo,37,14,24,48,3,1,38,40,0.68,21
+Italy,Rome and Lazio,48,25,15,20,6.3,12,31,42,0.57,14
+Italy,Trieste,49,10,11,18,4.6,6,49,15,0.71,20
+Italy,Turin,38,13,12,12,5.5,10,39,43,0.70,20
+Italy,Venice,35,12,8,5,7.0,13,46,33,0.89,31
+Malaysia,Kuala Lumpur,51,33,17,31,7.1,16,31,45,0.83,30
+México,Aguascalientes,41,10,27,56,5,3,54,31,0.68,19
+México,Ciudad de Mexico,66,42,11,11,10.6,32,23,50,1.05,42
+México,Guadalajara,56,33,16,24,7.8,18,31,49,0.64,16
+México,Leon,78,21,20,40,5.1,2,76,23,0.95,36
+México,Monterrey,62,39,20,40,9.4,27,32,53,1.13,44
+México,Puebla,49,20,10,10,5.9,8,36,49,0.56,12
+México,Queretaro,52,26,28,57,5.8,8,42,43,0.73,21
+México,San Luis Potosi,42,14,16,21,5,4,45,44,0.62,15
+Peru,Lima,59,34,12,16,8.3,21,41,41,1.26,42
+Portugal,Coimbra,35,2,12,17,2.4,0,29,0,0.69,19
+Portugal,Lisboa,48,24,14,18,7.1,17,31,39,0.70,22
+Portugal,"Porto, Braga and Vila Real",38,13,11,12,5.1,7,40,42,0.68,21
+Russia,Moscow,53,31,10,10,8.5,24,31,43,0.82,29
+Russia,Saint Petersburg,51,25,11,11,6.5,14,40,45,0.78,26
+Singapore,Singapore,46,24,8,3,6.3,16,27,48,0.60,15
+Spain,Barcelona,37,9,10,9,7.4,16,40,43,0.64,17
+Spain,Bilbao,25,2,8,3,6,13,63,25,0.81,27
+Spain,Burgos,22,1,9,7,2.2,0,61,24,0.64,17
+Spain,Ciudad Real,33,3,8,1,2,0,22,3,0.75,24
+Spain,Granada,25,3,10,5,2.8,1,60,25,0.58,13
+Spain,Madrid,45,21,10,10,9.4,26,29,44,0.65,18
+Spain,Malaga,31,5,11,8,5.6,11,48,38,0.83,28
+Spain,Mallorca,30,3,14,14,7.9,17,56,26,0.89,31
+Spain,Sevilla,31,6,10,8,4,5,54,32,0.73,23
+Spain,Tenerife,30,8,15,23,10.2,22,37,45,0.87,30
+Spain,València,31,6,11,10,4.8,7,50,32,0.83,29
+Spain,Vigo,29,3,11,10,3.2,2,64,25,0.59,15
+Spain,Zaragoza,27,2,9,4,3.2,3,41,41,0.57,12
+Thailand,Bangkok,62,42,20,38,8.7,25,27,46,0.86,30
+Turkey,Adana - Mersin,46,17,15,20,6.8,11,68,22,0.75,24
+Turkey,Ankara,56,35,14,18,7.7,20,35,48,0.83,29
+Turkey,Antalya,54,27,19,30,7.0,12,60,27,0.71,20
+Turkey,Bursa,50,26,14,17,5.7,9,49,39,0.58,15
+Turkey,Istanbul,68,47,13,17,9,24,33,41,1.07,40
+Turkey,Izmir - Aydin,53,30,12,13,7.4,14,27,49,0.80,27
+United Arab Emirates,Dubai / Abu Dhabi,45,18,13,15,11.3,28,40,38,1.01,39
+United Kingdom,East Midlands,52,16,12,18,6.2,11,32,13,0.98,36
+United Kingdom,London,47,24,10,4,7.4,17,37,36,0.61,16
+United Kingdom,North East and Cumbria,64,22,14,23,8.1,17,40,14,0.73,21
+United Kingdom,North West,39,15,10,3,5.8,9,56,31,0.68,20
+United Kingdom,Scotland,38,12,10,3,7.7,14,47,29,0.68,20
+United Kingdom,South West,35,10,9,3,6.2,10,55,24,0.95,33
+United Kingdom,West Midlands,44,21,11,6,5.2,8,53,27,0.68,20
+United Kingdom,Yorkshire,38,12,10,7,5.5,9,46,31,0.77,25
+United States,Boston,46,19,11,13,6.0,11,32,45,0.72,23
+United States,Chicago,57,32,15,23,8.4,21,24,43,0.70,21
+United States,"Denver - Boulder, CO",77,31,14,25,11.2,31,54,22,1.14,45
+United States,Los Angeles,55,31,17,30,8.2,20,27,42,0.68,21
+United States,Miami,58,35,18,28,8.5,22,29,41,0.88,31
+United States,"Minneapolis - St. Paul, MN",66,0.19,13,0.14,8.3,20,51,0.16,0.88,30
+United States,New York - New Jersey,54,30,13,14,8.0,21,29,49,0.63,17
+United States,Philadelphia,50,26,15,22,7.0,17,29,40,0.69,21
+United States,Pittsburgh,43,20,15,19,5.7,11,44,41,0.72,22
+United States,"Portland, OR",90,36,14,21,8.2,18,52,20,0.98,36
+United States,San Diego,70,23,16,29,11.2,30,55,27,1.21,48
+United States,"San Francisco - San Jose, CA",45,20,14,19,8.6,19,39,36,0.75,24
+United States,"Seattle - Tacoma, WA",52,32,15,26,11.0,32,34,46,0.88,31
+United States,"Washington, D.C. - Baltimore, MD",54,28,17,27,7.9,20,32,46,0.84,28
+Uruguay,Montevideo,42,16,14,16,6.3,12,44,42,0.53,11
